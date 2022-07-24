@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ryujiwon/Desktop/AndroidStudio/GoodPrice/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ryujiwon/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/ryujiwon/Desktop/AndroidStudio/GoodPrice/app/.cxx/Debug/683p6d6g/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ryujiwon/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/ryujiwon/Desktop/AndroidStudio/GoodPrice/app/.cxx/Debug/683p6d6g/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "goodprice::@6890427a1f51a3e7e1df": {
+      "artifactName": "goodprice",
+      "abi": "x86",
+      "output": "/Users/ryujiwon/Desktop/AndroidStudio/GoodPrice/app/build/intermediates/cxx/Debug/683p6d6g/obj/x86/libgoodprice.so",
+      "runtimeFiles": []
+    }
+  }
+}
